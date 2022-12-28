@@ -122,7 +122,7 @@ body {
 }
 .restaurant .container {
   width: 100%;
-  margin: 0 auto;
+  margin-left: 50px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -308,7 +308,7 @@ body {
 }
 .hotels .container {
   width: 100%;
-  margin: 0 auto;
+  margin-left: 50px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -352,7 +352,7 @@ body {
 }
 .market .container {
   width: 100%;
-  margin: 0 auto;
+  margin-left: 50px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -392,7 +392,7 @@ body {
 }
 .transport .container {
   width: 100%;
-  margin: 0 auto;
+  margin-left: 50px;
   display: flex;
   flex-wrap: wrap;
 }
